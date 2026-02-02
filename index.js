@@ -1,0 +1,1 @@
+console.log("🚀 MERN Ecommerce Project Started!");
